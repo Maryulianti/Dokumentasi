@@ -1,3 +1,3 @@
 # Dokumentasi
 
-![image.png]( {https://github.com/Maryulianti/Dokumentasi/blob/main/logo.png} )
+![Logo ArtiVisi](Dokumentasi/logo.png)
